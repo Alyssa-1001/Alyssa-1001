@@ -7,10 +7,10 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://linkedin.com/in/yuriy-soroka-938836230" title="LinkedIn Profile"><img width="22" src="linkedin.svg"> LinkedIn</a></code>
-  <code><a href="#" title="HackerRank Profile"><img width="22" src="hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/23792879/jey-reichel" title="Stack Overflow Profile"><img width="22" src="stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://stackoverflow.com/users/23792879/jey-reichel" title="Instagram Profile"><img width="22" src="instagram.svg"> Instagram</a></code>
+  <code><a href="https://linkedin.com/in/yuriy-sorok-938836230" title="LinkedIn Profile"><img width="22" src="./assets/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="#" title="HackerRank Profile"><img width="22" src="./assets/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://stackoverflow.com/users/23792879/alyssa" title="Stack Overflow Profile"><img width="22" src="./assets/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://stackoverflow.com/users/23792879/alyssa" title="Instagram Profile"><img width="22" src="./assets/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
@@ -29,28 +29,27 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="Python" height="25" src="python-original.svg"></code>
-  <code><img title="Django" height="25" src="django.png"></code>
-  <code><img title="Javascript" height="25" src="javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="html5.svg"></code>
-  <code><img title="CSS" height="25" src="css.svg"></code>
-  <code><img title="SASS" height="25" src="sass.svg"></code>
-  <code><img title="Gulp" height="25" src="gulp.svg"></code>
-  <code><img title="React" height="25" src="react-original.svg"></code>
-  <code><img title="Redux" height="25" src="redux.svg"></code>
-  <code><img title="Git" height="25" src="git-original.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="vscode.png"></code>
-  <code><img title="JQuery" height="25" src="jquery-original.svg"></code>
-  <code><img title="Java" height="25" src="java-original.svg"></code>
-  <code><img title="JSON" height="25" src="json.svg"></code>
-  <code><img title="Android" height="25" src="android.svg"></code>
-  <code><img title="GitHub" height="25" src="github.svg"></code>
-  <code><img title="MySQL" height="25" src="mysql.svg"></code>
-  <code><img title="npm" height="25" src="npm.svg"></code>
-  <code><img title="PHP" height="25" src="php.svg"></code>
-  <code><img title="Flask" height="25" src="flask.png"></code>
+  <code><img title="Solidity" height="25" src="./assets/solidity-seeklogo.svg"></code>
+  <code><img title="Rust" height="25" src="./assets/rust-seeklogo.svg"></code>
+  <code><img title="Javascript" height="25" src="./assets/javascript.svg"></code>
+  <code><img title="Typescript" height="25" src="./assets/typescript-seeklogo.svg"></code>
+  <code><img title="Python" height="25" src="./assets/python-original.svg"></code>
+  <code><img title="Django" height="25" src="./assets/django.png"></code>
+  <code><img title="HTML5" height="25" src="./assets/html5.svg"></code>
+  <code><img title="CSS" height="25" src="./assets/css.svg"></code>
+  <code><img title="SASS" height="25" src="./assets/sass.svg"></code>
+  <code><img title="React" height="25" src="./assets/react-original.svg"></code>
+  <code><img title="Redux" height="25" src="./assets/redux.svg"></code>
+  <code><img title="PHP" height="25" src="./assets/php.svg"></code>
+  <code><img title="Problem Solving" height="25" src="./assets/problemSolving.png"></code>
+  <code><img title="Git" height="25" src="./assets/git-original.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="./assets/vscode.png"></code>
+  <code><img title="GitHub" height="25" src="./assets/github.svg"></code>
+  <code><img title="Java" height="25" src="./assets/java-original.svg"></code>
+  <code><img title="Android" height="25" src="./assets/android.svg"></code>
+  <code><img title="MySQL" height="25" src="./assets/mysql.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="./assets/postgresql.svg"></code>
+  <code><img title="npm" height="25" src="./assets/npm.svg"></code>
 </p>
 <hr>
 
@@ -77,7 +76,7 @@
 <hr>
 
 <h4 align="center">
-  <a href="https://github.com/JeyReichel?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/Alyssa-1001?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
 <!--
