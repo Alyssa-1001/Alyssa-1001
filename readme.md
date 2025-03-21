@@ -6,12 +6,12 @@
   </a>
 </h1>
 
-<h5 align="center">
+<!-- <h5 align="center">
   <code><a href="https://linkedin.com/in/yuriy-sorok-938836230" title="LinkedIn Profile"><img width="22" src="./assets/linkedin.svg"> LinkedIn</a></code>
   <code><a href="#" title="HackerRank Profile"><img width="22" src="./assets/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://stackoverflow.com/users/23792879/alyssa" title="Stack Overflow Profile"><img width="22" src="./assets/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://stackoverflow.com/users/23792879/alyssa" title="Instagram Profile"><img width="22" src="./assets/instagram.svg"> Instagram</a></code>
-</h5>
+</h5> -->
 <br>
 <p align="center">
   Hi, I'm Full-Stack & Blockchain developer.
