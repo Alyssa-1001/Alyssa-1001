@@ -1,14 +1,22 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github;Senior+Software+Engineer;Senior+Full-Stack+Engineer;Blockchain+Developer;Back-End+Engineer;Front-End+Developer&center=true&size=28&color=54AEFF">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github;Senior+Software+Engineer;Senior+Full-Stack+Engineer;Blockchain+Developer&center=true&size=28&color=54AEFF">
   </a>
 </h1>
 
-## About Me
+## <p align="center">About Me </p>
 
-Senior engineer with 7+ years of experience building up web & mobile app and blockchain infrastructure for several organizations with combined expertise in FinTech, Software Engineering and Blockchain Architecture.
-Unfortunately, many of the projects I have worked on are private. However, I believe my public GitHub repositories will provide a clear understanding of my skills and experience. 
-Please feel free to browse through them at your convenience.
+<p align="center">
+  Hi, I'm Full-Stack & Blockchain developer.
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+  📚 I’m currently learning how to integrate Blockchain with powerful AI.
+  <br>
+  💬 Ask me anything about from <a href="https://github.com/Alyssa-1001/issues" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: cute.kitty.shorter@gmail.com">cute.kitty.shorter@gmail.com</a>
+</p>
 
 
 ## Languages and Tool
