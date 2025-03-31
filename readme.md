@@ -34,6 +34,9 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png" alt="Rust" title="Rust"/></code>
 	<code><img width="50" src="https://github.com/user-attachments/assets/eb979871-1d57-4ea7-b8af-bfb1165a2979" alt="Ethereum" title="Ethereum"/></code>
 	<code><img width="50" src="https://github.com/user-attachments/assets/d8e14a10-6937-458d-b884-21ee40b0dd04" alt="Solana" title="Solana"/></code>
+  <code><img width="50" src="./assets/sui-sui-logo.png" alt="Sui" title="Sui"/></code>
+  <code><img width="50" src="./assets/aptos-apt-logo.png" alt="Aptos" title="Aptos"/></code>
+  <code><img width="50" src="./assets/xrp-xrp-logo.png" alt="XRP" title="XRP"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="Laravel" title="Laravel"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
