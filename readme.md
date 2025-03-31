@@ -1,14 +1,22 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github;Senior+Software+Engineer;Senior+Full-Stack+Engineer;Blockchain+Developer;Back-End+Engineer;Front-End+Developer&center=true&size=28&color=54AEFF">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github;Senior+Software+Engineer;Senior+Full-Stack+Engineer;Blockchain+Developer&center=true&size=28&color=54AEFF">
   </a>
 </h1>
 
-## About Me
+## <p align="center">About Me </p>
 
-Senior engineer with 7+ years of experience building up web & mobile app and blockchain infrastructure for several organizations with combined expertise in FinTech, Software Engineering and Blockchain Architecture.
-Unfortunately, many of the projects I have worked on are private. However, I believe my public GitHub repositories will provide a clear understanding of my skills and experience. 
-Please feel free to browse through them at your convenience.
+<p align="center">
+  Hi, I'm Full-Stack & Blockchain developer.
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+  📚 I’m currently learning how to integrate Blockchain with powerful AI.
+  <br>
+  💬 Ask me anything about from <a href="https://github.com/Alyssa-1001/issues" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: cute.kitty.shorter@gmail.com">cute.kitty.shorter@gmail.com</a>
+</p>
 
 
 ## Languages and Tool
@@ -26,6 +34,9 @@ Please feel free to browse through them at your convenience.
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png" alt="Rust" title="Rust"/></code>
 	<code><img width="50" src="https://github.com/user-attachments/assets/eb979871-1d57-4ea7-b8af-bfb1165a2979" alt="Ethereum" title="Ethereum"/></code>
 	<code><img width="50" src="https://github.com/user-attachments/assets/d8e14a10-6937-458d-b884-21ee40b0dd04" alt="Solana" title="Solana"/></code>
+  <code><img width="50" src="./assets/sui-sui-logo.png" alt="Sui" title="Sui"/></code>
+  <code><img width="50" src="./assets/aptos-apt-logo.png" alt="Aptos" title="Aptos"/></code>
+  <code><img width="50" src="./assets/xrp-xrp-logo.png" alt="XRP" title="XRP"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="Laravel" title="Laravel"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
